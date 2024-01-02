@@ -1,0 +1,8 @@
+{
+  "name": "patcher",
+  "description": "A remake of some of Patcher's features for ChatTriggers 3.0.0",
+  "entry": "index.js",
+  "version": "0.0.1",
+  "creator": "Clovenbob",
+  "requires": ["Vigilance"]
+}
